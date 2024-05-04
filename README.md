@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Gupta</h1>
 <h3 align="center">A passionate Web developer from India,Front end web developer ||Mastering DSA with JAVA</h3>
 
-- 📫 How to reach me **www.linkedin.com/in/divya-gupta-36326222b**
+📫 How to reach me **www.linkedin.com/in/divya-gupta-36326222b**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
